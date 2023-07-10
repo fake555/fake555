@@ -15,6 +15,6 @@
 <div class="mail">
 </div>
 <div class="discord">
- <a href="https://discord.com/users/662402220784091146">
+ <a href="https://discord.com/users/108336927762">
  <img src="https://img.shields.io/badge/Discord-282B30?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
