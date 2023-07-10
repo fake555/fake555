@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">👋 Hello, my name is fake555</h1>
-<h3 align="center">I'm 13yo and I code almost in Java and GoLang</h3>
+<h3 align="center">I'm 13yo and I code almost in Java</h3>
 
 <p align="center">👯 Manager at <strong>FaPlugins</strong> <strong></strong></p>
 </div>
